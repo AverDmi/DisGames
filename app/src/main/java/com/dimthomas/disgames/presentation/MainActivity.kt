@@ -1,7 +1,8 @@
-package com.dimthomas.disgames
+package com.dimthomas.disgames.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.dimthomas.disgames.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
